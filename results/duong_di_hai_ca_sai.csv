@@ -1,0 +1,16 @@
+﻿Dòng CSV (từ 0),Thực tế,Dự đoán,Điều kiện
+16,No,Yes,TotalWorkingYears > 1.500
+16,No,Yes,OverTime_No <= 0.500
+16,No,Yes,MonthlyIncome > 2476.000
+16,No,Yes,MaritalStatus_Single <= 0.500
+16,No,Yes,EnvironmentSatisfaction <= 2.500
+16,No,Yes,Age <= 35.500
+16,No,Yes,CompanyTenureShare <= 0.882
+24,Yes,No,TotalWorkingYears > 1.500
+24,Yes,No,OverTime_No > 0.500
+24,Yes,No,WorkLifeBalance > 1.500
+24,Yes,No,NumCompaniesWorked <= 4.500
+24,Yes,No,TotalWorkingYears > 2.500
+24,Yes,No,JobRole_Sales Representative <= 0.500
+24,Yes,No,HourlyRate <= 99.500
+24,Yes,No,Age <= 45.500

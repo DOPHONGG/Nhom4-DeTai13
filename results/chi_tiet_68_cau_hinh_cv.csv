@@ -1,0 +1,69 @@
+﻿Phương án,params,mean_test_score,std_test_score,rank_test_score
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 8, 'model__min_samples_leaf': 5}",0.39052400335982423,0.05370613755694568,1
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': None, 'model__min_samples_leaf': 5}",0.38404435204435206,0.03496212537529284,2
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 5, 'model__min_samples_leaf': 15}",0.3807572579088499,0.011983588006639265,3
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 3, 'model__min_samples_leaf': 15}",0.37759540738454433,0.07567408170477534,4
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 3, 'model__min_samples_leaf': 1}",0.3764203953802058,0.08605213898625745,5
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 3, 'model__min_samples_leaf': 5}",0.3762709464730509,0.08598416747779948,6
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 5, 'model__min_samples_leaf': 1}",0.36994237485256964,0.08464653273094928,7
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 8, 'model__min_samples_leaf': 15}",0.3621905657144052,0.029303476265585708,8
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 8, 'model__min_samples_leaf': 1}",0.3586195776524327,0.08343085526088762,9
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': None, 'model__min_samples_leaf': 15}",0.35834549411162314,0.024717467837859598,10
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 5, 'model__min_samples_leaf': 5}",0.35808777429467087,0.06758315345461746,11
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': None, 'model__min_samples_leaf': 1}",0.3555903766077716,0.08141238380824599,12
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 8, 'model__min_samples_leaf': 1}",0.3550700966380836,0.046824231461194896,13
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 5, 'model__min_samples_leaf': 5}",0.34958583601170157,0.02336353320939593,14
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 5, 'model__min_samples_leaf': 15}",0.34606999709276404,0.11403880395111819,15
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 8, 'model__min_samples_leaf': 5}",0.34389673154307304,0.06063579227878024,16
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': None, 'model__min_samples_leaf': 5}",0.34151331103927896,0.06684499523500927,17
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': 5, 'model__min_samples_leaf': 1}",0.3321107396299349,0.03552042122773569,18
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 8, 'model__min_samples_leaf': 15}",0.3244758242632419,0.10967194032628655,19
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': None, 'model__min_samples_leaf': 15}",0.3244758242632419,0.10967194032628655,19
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 3, 'model__min_samples_leaf': 5}",0.309828069158698,0.10778687585817075,21
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 3, 'model__min_samples_leaf': 1}",0.30611425395291275,0.10587610326322217,22
+Cây quyết định A,"{'model__class_weight': 'balanced', 'model__max_depth': None, 'model__min_samples_leaf': 1}",0.2788233112346154,0.03692599278332791,23
+Cây quyết định A,"{'model__class_weight': None, 'model__max_depth': 3, 'model__min_samples_leaf': 15}",0.2542084262026284,0.09334452325219363,24
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 8, 'model__min_samples_leaf': 5}",0.4067834150151814,0.0688935088658969,1
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': None, 'model__min_samples_leaf': 5}",0.39465359942750605,0.0575198354675313,2
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 3, 'model__min_samples_leaf': 15}",0.37759540738454433,0.07567408170477534,3
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 3, 'model__min_samples_leaf': 1}",0.3764203953802058,0.08605213898625745,4
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 3, 'model__min_samples_leaf': 5}",0.3762709464730509,0.08598416747779948,5
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 5, 'model__min_samples_leaf': 15}",0.3760229092362192,0.01571331787612555,6
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 8, 'model__min_samples_leaf': 1}",0.37578226622344274,0.07360631726914084,7
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 5, 'model__min_samples_leaf': 5}",0.3731424686903548,0.0839995324539411,8
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 5, 'model__min_samples_leaf': 1}",0.3662599750475754,0.09312575575596907,9
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': None, 'model__min_samples_leaf': 1}",0.36253510176640297,0.07484070444726278,10
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 8, 'model__min_samples_leaf': 15}",0.3622595704948647,0.02299465884776699,11
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': None, 'model__min_samples_leaf': 15}",0.358933090837378,0.018311160851419147,12
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 8, 'model__min_samples_leaf': 5}",0.3566197684898576,0.06477281179212377,13
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 8, 'model__min_samples_leaf': 15}",0.3541626424006162,0.11404565417649651,14
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': None, 'model__min_samples_leaf': 15}",0.3541626424006162,0.11404565417649651,14
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 8, 'model__min_samples_leaf': 1}",0.3494387555257121,0.043305038343601804,16
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 5, 'model__min_samples_leaf': 5}",0.3485177629484938,0.021704686340249003,17
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': None, 'model__min_samples_leaf': 5}",0.34589607414349677,0.06787054764458669,18
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 5, 'model__min_samples_leaf': 15}",0.34510206000867455,0.11460864325116124,19
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': 5, 'model__min_samples_leaf': 1}",0.33486025899540073,0.03129852910877623,20
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 3, 'model__min_samples_leaf': 5}",0.30852936785999663,0.10716807035530505,21
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 3, 'model__min_samples_leaf': 1}",0.30611425395291275,0.10587610326322217,22
+Cây quyết định B,"{'model__class_weight': 'balanced', 'model__max_depth': None, 'model__min_samples_leaf': 1}",0.2768445508026586,0.06343132216826311,23
+Cây quyết định B,"{'model__class_weight': None, 'model__max_depth': 3, 'model__min_samples_leaf': 15}",0.2531103869869421,0.09306654856998026,24
+K-NN A,"{'model__n_neighbors': 3, 'model__weights': 'uniform'}",0.2559077026214217,0.1144480260532103,1
+K-NN A,"{'model__n_neighbors': 3, 'model__weights': 'distance'}",0.2559077026214217,0.1144480260532103,1
+K-NN A,"{'model__n_neighbors': 5, 'model__weights': 'uniform'}",0.2281914541715206,0.12621885119236673,3
+K-NN A,"{'model__n_neighbors': 5, 'model__weights': 'distance'}",0.2281914541715206,0.12621885119236673,3
+K-NN A,"{'model__n_neighbors': 9, 'model__weights': 'uniform'}",0.11472283813747228,0.06672640935152564,5
+K-NN A,"{'model__n_neighbors': 9, 'model__weights': 'distance'}",0.11472283813747228,0.06672640935152564,5
+K-NN A,"{'model__n_neighbors': 15, 'model__weights': 'uniform'}",0.05809523809523809,0.0766888462445615,7
+K-NN A,"{'model__n_neighbors': 15, 'model__weights': 'distance'}",0.05809523809523809,0.0766888462445615,7
+K-NN A,"{'model__n_neighbors': 25, 'model__weights': 'uniform'}",0.010256410256410256,0.020512820512820513,9
+K-NN A,"{'model__n_neighbors': 25, 'model__weights': 'distance'}",0.010256410256410256,0.020512820512820513,9
+K-NN B,"{'model__n_neighbors': 3, 'model__weights': 'uniform'}",0.26753529434743545,0.08235360464512582,1
+K-NN B,"{'model__n_neighbors': 3, 'model__weights': 'distance'}",0.26753529434743545,0.08235360464512582,1
+K-NN B,"{'model__n_neighbors': 5, 'model__weights': 'uniform'}",0.18728316600657027,0.0536314455885156,3
+K-NN B,"{'model__n_neighbors': 5, 'model__weights': 'distance'}",0.18728316600657027,0.0536314455885156,3
+K-NN B,"{'model__n_neighbors': 9, 'model__weights': 'uniform'}",0.1498421632567974,0.09731763030999073,5
+K-NN B,"{'model__n_neighbors': 9, 'model__weights': 'distance'}",0.1498421632567974,0.09731763030999073,5
+K-NN B,"{'model__n_neighbors': 15, 'model__weights': 'uniform'}",0.050256410256410255,0.044724299713672096,7
+K-NN B,"{'model__n_neighbors': 15, 'model__weights': 'distance'}",0.050256410256410255,0.044724299713672096,7
+K-NN B,"{'model__n_neighbors': 25, 'model__weights': 'uniform'}",0.010256410256410256,0.020512820512820513,9
+K-NN B,"{'model__n_neighbors': 25, 'model__weights': 'distance'}",0.010256410256410256,0.020512820512820513,9

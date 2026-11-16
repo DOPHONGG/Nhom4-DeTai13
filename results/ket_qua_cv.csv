@@ -1,0 +1,6 @@
+﻿Phương án,F1 CV,Tham số tốt nhất
+Cây quyết định B,0.4067834150151814,"{'class_weight': None, 'max_depth': 8, 'min_samples_leaf': 5}"
+Cây quyết định A,0.39052400335982423,"{'class_weight': None, 'max_depth': 8, 'min_samples_leaf': 5}"
+K-NN B,0.26753529434743545,"{'n_neighbors': 3, 'weights': 'uniform'}"
+K-NN A,0.2559077026214217,"{'n_neighbors': 3, 'weights': 'uniform'}"
+Baseline,0.0,most_frequent

@@ -1,0 +1,6 @@
+﻿,Age,MonthlyIncome,YearsAtCompany,TotalWorkingYears,JobLevel
+Age,1.0,0.511,0.313,0.695,0.526
+MonthlyIncome,0.511,1.0,0.505,0.775,0.947
+YearsAtCompany,0.313,0.505,1.0,0.618,0.527
+TotalWorkingYears,0.695,0.775,0.618,1.0,0.785
+JobLevel,0.526,0.947,0.527,0.785,1.0
