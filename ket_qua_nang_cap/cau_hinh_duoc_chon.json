@@ -1,0 +1,28 @@
+{
+  "Mã": 42,
+  "Mô hình": "Hồi quy logistic",
+  "Luồng": "B",
+  "Tham số": "C=3, trọng số=Đều",
+  "Ngưỡng": 0.46,
+  "F1 OOF": 0.6319018404907976,
+  "Recall OOF": 0.5421052631578948,
+  "FN OOF": 87,
+  "FP OOF": 33,
+  "Tổng lỗi OOF": 120,
+  "FN_goc_OOF": 123,
+  "tong_loi_goc_OOF": 196,
+  "so_cau_hinh": 58,
+  "so_nguong": 31,
+  "nguong_uu_tien": {
+    "Mã": 42,
+    "Mô hình": "Hồi quy logistic",
+    "Luồng": "B",
+    "Tham số": "C=3, trọng số=Đều",
+    "Ngưỡng": 0.36,
+    "F1 OOF": 0.6096256684491979,
+    "Recall OOF": 0.6,
+    "FN OOF": 76,
+    "FP OOF": 70,
+    "Tổng lỗi OOF": 146
+  }
+}
